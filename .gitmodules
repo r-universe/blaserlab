@@ -8,3 +8,8 @@
 	url = https://github.com/blaserlab/blaseRtemplates
 	shallow = true
 	registered = true
+[submodule "blaseRtools"]
+	path = blaseRtools
+	url = https://github.com/blaserlab/blaseRtools
+	shallow = true
+	registered = true

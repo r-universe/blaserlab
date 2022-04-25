@@ -1,5 +1,8 @@
 [
   {
     "package": "blaseRtemplates"
+  },
+  {
+    "package": "blaseRtools"
   }
 ]
