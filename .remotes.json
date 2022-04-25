@@ -1,0 +1,56 @@
+[
+  {
+    "package": "CellChat",
+    "url": "https://github.com/sqjin/CellChat",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "DoubletFinder",
+    "url": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
+    "via": ["blaseRtools", "SeuratDisk"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratDisk",
+    "url": "https://github.com/mojaveazure/seurat-disk",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "blaseRdata",
+    "url": "https://github.com/blaserlab/blaseRdata",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "blaseRtemplates",
+    "url": "https://github.com/blaserlab/blaseRtemplates",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "ggrastr",
+    "url": "https://github.com/VPetukhov/ggrastr",
+    "via": ["blaseRtools", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "leidenbase",
+    "url": "https://github.com/cole-trapnell-lab/leidenbase",
+    "via": ["blaseRtools", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "monocle3",
+    "url": "https://github.com/cole-trapnell-lab/monocle3",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  }
+]
