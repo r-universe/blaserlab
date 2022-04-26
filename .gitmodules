@@ -13,6 +13,11 @@
 	url = https://github.com/blaserlab/blaseRtools
 	shallow = true
 	registered = true
+[submodule "blaseRdata"]
+	path = blaseRdata
+	url = https://github.com/blaserlab/blaseRdata
+	shallow = true
+	registered = true
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
@@ -26,11 +31,6 @@
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
-	shallow = true
-	registered = false
-[submodule "blaseRdata"]
-	path = blaseRdata
-	url = https://github.com/blaserlab/blaseRdata
 	shallow = true
 	registered = false
 [submodule "ggrastr"]
