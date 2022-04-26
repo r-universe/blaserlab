@@ -1,11 +1,5 @@
 [
   {
-    "package": "CellChat",
-    "url": "https://github.com/sqjin/CellChat",
-    "via": ["blaseRtools"],
-    "from": "blaseRtools"
-  },
-  {
     "package": "DoubletFinder",
     "url": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
     "via": ["blaseRtools"],
