@@ -18,6 +18,16 @@
 	url = https://github.com/blaserlab/blaseRdata
 	shallow = true
 	registered = true
+[submodule "datascience.curriculum"]
+	path = datascience.curriculum
+	url = https://github.com/blaserlab/datascience.curriculum
+	shallow = true
+	registered = true
+[submodule "genotyping.functions"]
+	path = genotyping.functions
+	url = https://github.com/blaserlab/genotyping.functions
+	shallow = true
+	registered = true
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
