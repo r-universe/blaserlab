@@ -28,6 +28,11 @@
 	url = https://github.com/blaserlab/genotyping.functions
 	shallow = true
 	registered = true
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/sqjin/CellChat
+	shallow = true
+	registered = false
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
