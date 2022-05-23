@@ -1,5 +1,11 @@
 [
   {
+    "package": "CIPR",
+    "url": "https://github.com/atakanekiz/CIPR-Package",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "CellChat",
     "url": "https://github.com/sqjin/CellChat",
     "via": ["blaseRtools"],
@@ -12,14 +18,44 @@
     "from": "blaseRtools"
   },
   {
+    "package": "Nebulosa",
+    "url": "https://github.com/powellgenomicslab/Nebulosa",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "SeuratData",
     "url": "https://github.com/satijalab/seurat-data",
     "via": ["blaseRtools", "SeuratDisk"],
     "from": "blaseRtools"
   },
   {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
+    "via": ["blaseRtools", "SeuratWrappers", "SeuratDisk"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "SeuratDisk",
     "url": "https://github.com/mojaveazure/seurat-disk",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratDisk",
+    "url": "https://github.com/mojaveazure/seurat-disk",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratWrappers",
+    "url": "https://github.com/satijalab/seurat-wrappers",
     "via": ["blaseRtools"],
     "from": "blaseRtools"
   },
@@ -36,9 +72,27 @@
     "from": "blaseRtools"
   },
   {
+    "package": "conos",
+    "url": "https://github.com/hms-dbmi/conos",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "ggrastr",
     "url": "https://github.com/VPetukhov/ggrastr",
     "via": ["blaseRtools", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "ggrastr",
+    "url": "https://github.com/VPetukhov/ggrastr",
+    "via": ["blaseRtools", "SeuratWrappers", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "harmony",
+    "url": "https://github.com/immunogenomics/harmony",
+    "via": ["blaseRtools", "SeuratWrappers"],
     "from": "blaseRtools"
   },
   {
@@ -48,9 +102,46 @@
     "from": "blaseRtools"
   },
   {
+    "package": "leidenbase",
+    "url": "https://github.com/cole-trapnell-lab/leidenbase",
+    "via": ["blaseRtools", "SeuratWrappers", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "monocle3",
     "url": "https://github.com/cole-trapnell-lab/monocle3",
     "via": ["blaseRtools"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "monocle3",
+    "url": "https://github.com/cole-trapnell-lab/monocle3",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "presto",
+    "url": "https://github.com/immunogenomics/presto",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "rliger",
+    "url": "https://github.com/welch-lab/liger",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "schex",
+    "url": "https://github.com/SaskiaFreytag/schex",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "branch": "031320d",
+    "from": "blaseRtools"
+  },
+  {
+    "package": "velocyto.R",
+    "url": "https://github.com/velocyto-team/velocyto.R",
+    "via": ["blaseRtools", "SeuratWrappers"],
     "from": "blaseRtools"
   }
 ]
