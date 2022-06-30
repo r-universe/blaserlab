@@ -1,5 +1,11 @@
 [
   {
+    "package": "Banksy",
+    "url": "https://github.com/prabhakarlab/Banksy",
+    "via": ["blaseRtools", "SeuratWrappers"],
+    "from": "blaseRtools"
+  },
+  {
     "package": "CIPR",
     "url": "https://github.com/atakanekiz/CIPR-Package",
     "via": ["blaseRtools", "SeuratWrappers"],

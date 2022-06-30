@@ -28,6 +28,11 @@
 	url = https://github.com/blaserlab/genotyping.functions
 	shallow = true
 	registered = true
+[submodule "Banksy"]
+	path = Banksy
+	url = https://github.com/prabhakarlab/Banksy
+	shallow = true
+	registered = false
 [submodule "CIPR"]
 	path = CIPR
 	url = https://github.com/atakanekiz/CIPR-Package
