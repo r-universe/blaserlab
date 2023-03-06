@@ -28,16 +28,6 @@
 	url = https://github.com/blaserlab/genotyping.functions
 	shallow = true
 	registered = true
-[submodule "Banksy"]
-	path = Banksy
-	url = https://github.com/prabhakarlab/Banksy
-	shallow = true
-	registered = false
-[submodule "CIPR"]
-	path = CIPR
-	url = https://github.com/atakanekiz/CIPR-Package
-	shallow = true
-	registered = false
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
@@ -46,11 +36,6 @@
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
-	shallow = true
-	registered = false
-[submodule "Nebulosa"]
-	path = Nebulosa
-	url = https://github.com/powellgenomicslab/Nebulosa
 	shallow = true
 	registered = false
 [submodule "SeuratData"]
@@ -63,44 +48,8 @@
 	url = https://github.com/mojaveazure/seurat-disk
 	shallow = true
 	registered = false
-[submodule "SeuratWrappers"]
-	path = SeuratWrappers
-	url = https://github.com/satijalab/seurat-wrappers
-	shallow = true
-	registered = false
-[submodule "conos"]
-	path = conos
-	url = https://github.com/hms-dbmi/conos
-	shallow = true
-	registered = false
-[submodule "harmony"]
-	path = harmony
-	url = https://github.com/immunogenomics/harmony
-	shallow = true
-	registered = false
 [submodule "monocle3"]
 	path = monocle3
 	url = https://github.com/cole-trapnell-lab/monocle3
-	shallow = true
-	registered = false
-[submodule "presto"]
-	path = presto
-	url = https://github.com/immunogenomics/presto
-	shallow = true
-	registered = false
-[submodule "rliger"]
-	path = rliger
-	url = https://github.com/welch-lab/liger
-	shallow = true
-	registered = false
-[submodule "schex"]
-	path = schex
-	url = https://github.com/SaskiaFreytag/schex
-	shallow = true
-	branch = 031320d
-	registered = false
-[submodule "velocyto.R"]
-	path = velocyto.R
-	url = https://github.com/velocyto-team/velocyto.R
 	shallow = true
 	registered = false
