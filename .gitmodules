@@ -28,6 +28,11 @@
 	url = https://github.com/blaserlab/genotyping.functions
 	shallow = true
 	registered = true
+[submodule "TxDb.Drerio.UCSC.danRer11.ensGene"]
+	path = TxDb.Drerio.UCSC.danRer11.ensGene
+	url = https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
+	shallow = true
+	registered = true
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
