@@ -55,6 +55,6 @@
 	registered = false
 [submodule "monocle3"]
 	path = monocle3
-	url = https://github.com/cole-trapnell-lab/monocle3
+	url = https://github.com/blaserlab/monocle3
 	shallow = true
 	registered = false

@@ -37,7 +37,7 @@
   },
   {
     "package": "monocle3",
-    "url": "https://github.com/cole-trapnell-lab/monocle3",
+    "url": "https://github.com/blaserlab/monocle3",
     "via": ["blaseRtools"],
     "from": "blaseRtools"
   }
