@@ -28,6 +28,16 @@
 	url = https://github.com/blaserlab/genotyping.functions
 	shallow = true
 	registered = true
+[submodule "monocle3"]
+	path = monocle3
+	url = https://github.com/cole-trapnell-lab/monocle3
+	shallow = true
+	registered = true
+[submodule "speedglm"]
+	path = speedglm
+	url = https://github.com/MarcoEnea/speedglm
+	shallow = true
+	registered = true
 [submodule "TxDb.Drerio.UCSC.danRer11.ensGene"]
 	path = TxDb.Drerio.UCSC.danRer11.ensGene
 	url = https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
@@ -51,15 +61,5 @@
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
-	shallow = true
-	registered = false
-[submodule "monocle3"]
-	path = monocle3
-	url = https://github.com/blaserlab/monocle3
-	shallow = true
-	registered = false
-[submodule "speedglm"]
-	path = speedglm
-	url = https://github.com/MarcoEnea/speedglm
 	shallow = true
 	registered = false
