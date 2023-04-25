@@ -40,5 +40,17 @@
     "url": "https://github.com/blaserlab/monocle3",
     "via": ["blaseRtools"],
     "from": "blaseRtools"
+  },
+  {
+    "package": "speedglm",
+    "url": "https://github.com/MarcoEnea/speedglm",
+    "via": ["blaseRtools", "monocle3"],
+    "from": "blaseRtools"
+  },
+  {
+    "package": "speedglm",
+    "url": "https://github.com/MarcoEnea/speedglm",
+    "via": ["blaseRtools"],
+    "from": "blaseRtools"
   }
 ]
