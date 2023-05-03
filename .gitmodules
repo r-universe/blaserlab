@@ -43,6 +43,36 @@
 	url = https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
 	shallow = true
 	registered = true
+[submodule "ArchR"]
+	path = ArchR
+	url = https://github.com/GreenleafLab/ArchR
+	shallow = true
+	registered = true
+[submodule "ChrAccR"]
+	path = ChrAccR
+	url = https://github.com/GreenleafLab/ChrAccR
+	shallow = true
+	registered = true
+[submodule "ChrAccRex"]
+	path = ChrAccRex
+	url = https://github.com/GreenleafLab/ChrAccRex
+	shallow = true
+	registered = true
+[submodule "muLogR"]
+	path = muLogR
+	url = https://github.com/demuellae/muLogR
+	shallow = true
+	registered = true
+[submodule "muRtools"]
+	path = muRtools
+	url = https://github.com/demuellae/muRtools
+	shallow = true
+	registered = true
+[submodule "muReportR"]
+	path = muReportR
+	url = https://github.com/demuellae/muReportR
+	shallow = true
+	registered = true
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
