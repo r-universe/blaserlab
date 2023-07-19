@@ -1,95 +1,62 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/blaserlab/universe
-	shallow = true
 	branch = HEAD
 [submodule "blaseRtemplates"]
 	path = blaseRtemplates
 	url = https://github.com/blaserlab/blaseRtemplates
-	shallow = true
-	registered = true
 [submodule "blaseRtools"]
 	path = blaseRtools
 	url = https://github.com/blaserlab/blaseRtools
-	shallow = true
-	registered = true
 [submodule "blaseRdata"]
 	path = blaseRdata
 	url = https://github.com/blaserlab/blaseRdata
-	shallow = true
-	registered = true
 [submodule "datascience.curriculum"]
 	path = datascience.curriculum
 	url = https://github.com/blaserlab/datascience.curriculum
-	shallow = true
-	registered = true
 [submodule "genotyping.functions"]
 	path = genotyping.functions
 	url = https://github.com/blaserlab/genotyping.functions
-	shallow = true
-	registered = true
 [submodule "monocle3"]
 	path = monocle3
 	url = https://github.com/cole-trapnell-lab/monocle3
-	shallow = true
-	registered = true
 [submodule "speedglm"]
 	path = speedglm
 	url = https://github.com/MarcoEnea/speedglm
-	shallow = true
-	registered = true
 [submodule "TxDb.Drerio.UCSC.danRer11.ensGene"]
 	path = TxDb.Drerio.UCSC.danRer11.ensGene
 	url = https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
-	shallow = true
-	registered = true
 [submodule "ArchR"]
 	path = ArchR
 	url = https://github.com/GreenleafLab/ArchR
-	shallow = true
-	registered = true
 [submodule "ChrAccR"]
 	path = ChrAccR
 	url = https://github.com/GreenleafLab/ChrAccR
-	shallow = true
-	registered = true
 [submodule "ChrAccRex"]
 	path = ChrAccRex
 	url = https://github.com/GreenleafLab/ChrAccRex
-	shallow = true
-	registered = true
 [submodule "muLogR"]
 	path = muLogR
 	url = https://github.com/demuellae/muLogR
-	shallow = true
-	registered = true
 [submodule "muRtools"]
 	path = muRtools
 	url = https://github.com/demuellae/muRtools
-	shallow = true
-	registered = true
 [submodule "muReportR"]
 	path = muReportR
 	url = https://github.com/demuellae/muReportR
-	shallow = true
-	registered = true
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
-	shallow = true
 	registered = false
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
-	shallow = true
 	registered = false
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
-	shallow = true
 	registered = false
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
-	shallow = true
 	registered = false
