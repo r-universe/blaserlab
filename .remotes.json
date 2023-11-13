@@ -14,8 +14,20 @@
   {
     "package": "SeuratData",
     "url": "https://github.com/satijalab/seurat-data",
+    "via": ["Azimuth"],
+    "from": "Azimuth"
+  },
+  {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
     "via": ["blaseRtools", "SeuratDisk"],
     "from": "blaseRtools"
+  },
+  {
+    "package": "SeuratDisk",
+    "url": "https://github.com/mojaveazure/seurat-disk",
+    "via": ["Azimuth"],
+    "from": "Azimuth"
   },
   {
     "package": "SeuratDisk",
@@ -34,5 +46,11 @@
     "url": "https://github.com/blaserlab/blaseRtemplates",
     "via": ["blaseRtools"],
     "from": "blaseRtools"
+  },
+  {
+    "package": "presto",
+    "url": "https://github.com/immunogenomics/presto",
+    "via": ["Azimuth"],
+    "from": "Azimuth"
   }
 ]

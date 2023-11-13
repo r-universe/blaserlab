@@ -82,6 +82,10 @@
 [submodule "muRtools"]
 	path = muRtools
 	url = https://github.com/demuellae/muRtools
+[submodule "presto"]
+	path = presto
+	url = https://github.com/immunogenomics/presto
+	registered = false
 [submodule "speedglm"]
 	path = speedglm
 	url = https://github.com/MarcoEnea/speedglm
