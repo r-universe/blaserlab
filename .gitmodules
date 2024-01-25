@@ -17,7 +17,7 @@
 	url = https://github.com/GreenleafLab/ChrAccRex
 [submodule "DoubletFinder"]
 	path = DoubletFinder
-	url = https://github.com/chris-mcginnis-ucsf/DoubletFinder
+	url = https://github.com/blaserlab/DoubletFinder
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
