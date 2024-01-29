@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/blaserlab/universe
+	url = https://github.com/blaserlab/blaserlab.r-universe.dev
 	branch = HEAD
 [submodule "ArchR"]
 	path = ArchR
