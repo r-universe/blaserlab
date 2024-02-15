@@ -7,7 +7,7 @@
   },
   {
     "package": "DoubletFinder",
-    "url": "https://github.com/chris-mcginnis-ucsf/DoubletFinder",
+    "url": "https://github.com/blaserlab/DoubletFinder",
     "via": ["blaseRtools"],
     "from": "blaseRtools"
   },
