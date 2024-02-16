@@ -5,6 +5,12 @@
 [submodule "ArchR"]
 	path = ArchR
 	url = https://github.com/GreenleafLab/ArchR
+[submodule "Azimuth"]
+	path = Azimuth
+	url = https://github.com/satijalab/azimuth
+[submodule "BPCells"]
+	path = BPCells
+	url = https://github.com/bnprks/BPCells
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
@@ -15,13 +21,24 @@
 [submodule "ChrAccRex"]
 	path = ChrAccRex
 	url = https://github.com/GreenleafLab/ChrAccRex
+[submodule "DAseq"]
+	path = DAseq
+	url = https://github.com/KlugerLab/DAseq
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/blaserlab/DoubletFinder
+[submodule "RcisTarget"]
+	path = RcisTarget
+	url = https://github.com/aertslab/RcisTarget
+[submodule "SCENIC"]
+	path = SCENIC
+	url = https://github.com/aertslab/SCENIC
+[submodule "SCopeLoomR"]
+	path = SCopeLoomR
+	url = https://github.com/aertslab/SCopeLoomR
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
-	registered = false
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
@@ -38,12 +55,21 @@
 [submodule "blaseRtools"]
 	path = blaseRtools
 	url = https://github.com/blaserlab/blaseRtools
+[submodule "cisTopic"]
+	path = cisTopic
+	url = https://github.com/aertslab/cisTopic
 [submodule "datascience.curriculum"]
 	path = datascience.curriculum
 	url = https://github.com/blaserlab/datascience.curriculum
+[submodule "genbankr"]
+	path = genbankr
+	url = https://github.com/gmbecker/genbankr
 [submodule "genotyping.functions"]
 	path = genotyping.functions
 	url = https://github.com/blaserlab/genotyping.functions
+[submodule "ggseqlogo"]
+	path = ggseqlogo
+	url = https://github.com/omarwagih/ggseqlogo
 [submodule "monocle3"]
 	path = monocle3
 	url = https://github.com/cole-trapnell-lab/monocle3
