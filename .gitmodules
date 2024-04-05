@@ -11,6 +11,14 @@
 [submodule "BPCells"]
 	path = BPCells
 	url = https://github.com/bnprks/BPCells
+[submodule "Banksy"]
+	path = Banksy
+	url = https://github.com/prabhakarlab/Banksy
+	registered = false
+[submodule "CIPR"]
+	path = CIPR
+	url = https://github.com/atakanekiz/CIPR-Package
+	registered = false
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
@@ -33,6 +41,10 @@
 [submodule "GOsummaries"]
 	path = GOsummaries
 	url = https://github.com/raivokolde/GOsummaries
+[submodule "Nebulosa"]
+	path = Nebulosa
+	url = https://github.com/powellgenomicslab/Nebulosa
+	registered = false
 [submodule "RcisTarget"]
 	path = RcisTarget
 	url = https://github.com/aertslab/RcisTarget
@@ -73,6 +85,10 @@
 [submodule "cisTopic"]
 	path = cisTopic
 	url = https://github.com/aertslab/cisTopic
+[submodule "conos"]
+	path = conos
+	url = https://github.com/hms-dbmi/conos
+	registered = false
 [submodule "datascience.curriculum"]
 	path = datascience.curriculum
 	url = https://github.com/blaserlab/datascience.curriculum
@@ -88,6 +104,10 @@
 [submodule "ggseqlogo"]
 	path = ggseqlogo
 	url = https://github.com/omarwagih/ggseqlogo
+[submodule "harmony"]
+	path = harmony
+	url = https://github.com/immunogenomics/harmony
+	registered = false
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cran/ivprobit
@@ -122,12 +142,25 @@
 [submodule "rdoc"]
 	path = rdoc
 	url = https://github.com/mdequeljoe/rdoc
+[submodule "rliger"]
+	path = rliger
+	url = https://github.com/welch-lab/liger
+	registered = false
 [submodule "rsparse"]
 	path = rsparse
 	url = https://github.com/dselivanov/rsparse
+[submodule "schex"]
+	path = schex
+	url = https://github.com/SaskiaFreytag/schex
+	branch = 031320d
+	registered = false
 [submodule "speedglm"]
 	path = speedglm
 	url = https://github.com/MarcoEnea/speedglm
 [submodule "tidyproteomics"]
 	path = tidyproteomics
 	url = https://github.com/jeffsocal/tidyproteomics
+[submodule "velocyto.R"]
+	path = velocyto.R
+	url = https://github.com/velocyto-team/velocyto.R
+	registered = false

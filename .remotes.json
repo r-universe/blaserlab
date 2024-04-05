@@ -1,5 +1,17 @@
 [
   {
+    "package": "Banksy",
+    "url": "https://github.com/prabhakarlab/Banksy",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "CIPR",
+    "url": "https://github.com/atakanekiz/CIPR-Package",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
     "package": "CellChat",
     "url": "https://github.com/sqjin/CellChat",
     "via": ["blaseRtools"],
@@ -12,10 +24,22 @@
     "from": "blaseRtools"
   },
   {
+    "package": "Nebulosa",
+    "url": "https://github.com/powellgenomicslab/Nebulosa",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
     "package": "SeuratData",
     "url": "https://github.com/satijalab/seurat-data",
     "via": ["Azimuth"],
     "from": "Azimuth"
+  },
+  {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
   },
   {
     "package": "SeuratData",
@@ -28,6 +52,12 @@
     "url": "https://github.com/mojaveazure/seurat-disk",
     "via": ["Azimuth"],
     "from": "Azimuth"
+  },
+  {
+    "package": "SeuratDisk",
+    "url": "https://github.com/mojaveazure/seurat-disk",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
   },
   {
     "package": "SeuratDisk",
@@ -48,9 +78,52 @@
     "from": "blaseRtools"
   },
   {
+    "package": "conos",
+    "url": "https://github.com/hms-dbmi/conos",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "harmony",
+    "url": "https://github.com/immunogenomics/harmony",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "monocle3",
+    "url": "https://github.com/cole-trapnell-lab/monocle3",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
     "package": "presto",
     "url": "https://github.com/immunogenomics/presto",
     "via": ["Azimuth"],
     "from": "Azimuth"
+  },
+  {
+    "package": "presto",
+    "url": "https://github.com/immunogenomics/presto",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "rliger",
+    "url": "https://github.com/welch-lab/liger",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "schex",
+    "url": "https://github.com/SaskiaFreytag/schex",
+    "via": ["SeuratWrappers"],
+    "branch": "031320d",
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "velocyto.R",
+    "url": "https://github.com/velocyto-team/velocyto.R",
+    "via": ["SeuratWrappers"],
+    "from": "SeuratWrappers"
   }
 ]
