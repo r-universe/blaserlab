@@ -24,15 +24,24 @@
 [submodule "DAseq"]
 	path = DAseq
 	url = https://github.com/KlugerLab/DAseq
+[submodule "DDRTree"]
+	path = DDRTree
+	url = https://github.com/cole-trapnell-lab/DDRTree
 [submodule "DoubletFinder"]
 	path = DoubletFinder
 	url = https://github.com/blaserlab/DoubletFinder
+[submodule "GOsummaries"]
+	path = GOsummaries
+	url = https://github.com/raivokolde/GOsummaries
 [submodule "RcisTarget"]
 	path = RcisTarget
 	url = https://github.com/aertslab/RcisTarget
 [submodule "RcppRoll"]
 	path = RcppRoll
 	url = https://github.com/kevinushey/RcppRoll
+[submodule "RforMassSpectrometry"]
+	path = RforMassSpectrometry
+	url = https://github.com/RforMassSpectrometry/RforMassSpectrometry
 [submodule "SCENIC"]
 	path = SCENIC
 	url = https://github.com/aertslab/SCENIC
@@ -46,6 +55,9 @@
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
 	registered = false
+[submodule "SeuratWrappers"]
+	path = SeuratWrappers
+	url = https://github.com/satijalab/seurat-wrappers
 [submodule "TxDb.Drerio.UCSC.danRer11.ensGene"]
 	path = TxDb.Drerio.UCSC.danRer11.ensGene
 	url = https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
@@ -64,6 +76,9 @@
 [submodule "datascience.curriculum"]
 	path = datascience.curriculum
 	url = https://github.com/blaserlab/datascience.curriculum
+[submodule "dotwhisker"]
+	path = dotwhisker
+	url = https://github.com/fsolt/dotwhisker
 [submodule "genbankr"]
 	path = genbankr
 	url = https://github.com/gmbecker/genbankr
@@ -73,6 +88,18 @@
 [submodule "ggseqlogo"]
 	path = ggseqlogo
 	url = https://github.com/omarwagih/ggseqlogo
+[submodule "ivprobit"]
+	path = ivprobit
+	url = https://github.com/cran/ivprobit
+[submodule "margins"]
+	path = margins
+	url = https://github.com/leeper/margins
+[submodule "mdthemes"]
+	path = mdthemes
+	url = https://github.com/thomas-neitmann/mdthemes
+[submodule "mhurdle"]
+	path = mhurdle
+	url = https://github.com/ycroissant/mhurdle
 [submodule "monocle3"]
 	path = monocle3
 	url = https://github.com/cole-trapnell-lab/monocle3
@@ -85,10 +112,22 @@
 [submodule "muRtools"]
 	path = muRtools
 	url = https://github.com/demuellae/muRtools
+[submodule "penalized"]
+	path = penalized
+	url = https://github.com/cran/penalized
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
 	registered = false
+[submodule "rdoc"]
+	path = rdoc
+	url = https://github.com/mdequeljoe/rdoc
+[submodule "rsparse"]
+	path = rsparse
+	url = https://github.com/dselivanov/rsparse
 [submodule "speedglm"]
 	path = speedglm
 	url = https://github.com/MarcoEnea/speedglm
+[submodule "tidyproteomics"]
+	path = tidyproteomics
+	url = https://github.com/jeffsocal/tidyproteomics
