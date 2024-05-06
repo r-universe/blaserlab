@@ -30,6 +30,9 @@
 [submodule "RcisTarget"]
 	path = RcisTarget
 	url = https://github.com/aertslab/RcisTarget
+[submodule "RcppRoll"]
+	path = RcppRoll
+	url = https://github.com/kevinushey/RcppRoll
 [submodule "SCENIC"]
 	path = SCENIC
 	url = https://github.com/aertslab/SCENIC
