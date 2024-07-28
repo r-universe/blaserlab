@@ -111,6 +111,9 @@
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cran/ivprobit
+[submodule "loupeR"]
+	path = loupeR
+	url = https://github.com/10XGenomics/loupeR
 [submodule "margins"]
 	path = margins
 	url = https://github.com/leeper/margins
