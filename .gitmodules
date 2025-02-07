@@ -82,6 +82,10 @@
 [submodule "blaseRtools"]
 	path = blaseRtools
 	url = https://github.com/blaserlab/blaseRtools
+[submodule "chromVARmotifs"]
+	path = chromVARmotifs
+	url = https://github.com/GreenleafLab/chromVARmotifs
+	registered = false
 [submodule "cisTopic"]
 	path = cisTopic
 	url = https://github.com/aertslab/cisTopic

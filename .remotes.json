@@ -78,6 +78,12 @@
     "from": "blaseRtools"
   },
   {
+    "package": "chromVARmotifs",
+    "url": "https://github.com/GreenleafLab/chromVARmotifs",
+    "via": ["ArchR"],
+    "from": "ArchR"
+  },
+  {
     "package": "conos",
     "url": "https://github.com/hms-dbmi/conos",
     "via": ["SeuratWrappers"],
@@ -92,8 +98,20 @@
   {
     "package": "monocle3",
     "url": "https://github.com/cole-trapnell-lab/monocle3",
+    "via": ["ArchR"],
+    "from": "ArchR"
+  },
+  {
+    "package": "monocle3",
+    "url": "https://github.com/cole-trapnell-lab/monocle3",
     "via": ["SeuratWrappers"],
     "from": "SeuratWrappers"
+  },
+  {
+    "package": "presto",
+    "url": "https://github.com/immunogenomics/presto",
+    "via": ["ArchR"],
+    "from": "ArchR"
   },
   {
     "package": "presto",
