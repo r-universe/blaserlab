@@ -1,5 +1,12 @@
 [
   {
+    "package": "BPCells",
+    "url": "https://github.com/bnprks/BPCells",
+    "via": ["monocle3"],
+    "subdir": "r",
+    "from": "monocle3"
+  },
+  {
     "package": "Banksy",
     "url": "https://github.com/prabhakarlab/Banksy",
     "via": ["SeuratWrappers"],
@@ -137,6 +144,12 @@
     "via": ["SeuratWrappers"],
     "branch": "031320d",
     "from": "SeuratWrappers"
+  },
+  {
+    "package": "speedglm",
+    "url": "https://github.com/cole-trapnell-lab/speedglm",
+    "via": ["monocle3"],
+    "from": "monocle3"
   },
   {
     "package": "velocyto.R",
