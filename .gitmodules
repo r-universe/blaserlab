@@ -156,6 +156,9 @@
 [submodule "rsparse"]
 	path = rsparse
 	url = https://github.com/dselivanov/rsparse
+[submodule "saber"]
+	path = saber
+	url = https://github.com/blaserlab/saber
 [submodule "sceasy"]
 	path = sceasy
 	url = https://github.com/cellgeni/sceasy
