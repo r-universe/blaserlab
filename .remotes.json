@@ -2,6 +2,13 @@
   {
     "package": "BPCells",
     "url": "https://github.com/bnprks/BPCells",
+    "via": ["SeuratWrappers", "monocle3"],
+    "subdir": "r",
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "BPCells",
+    "url": "https://github.com/bnprks/BPCells",
     "via": ["monocle3"],
     "subdir": "r",
     "from": "monocle3"
@@ -149,6 +156,12 @@
     "url": "https://github.com/SaskiaFreytag/schex",
     "via": ["SeuratWrappers"],
     "branch": "031320d",
+    "from": "SeuratWrappers"
+  },
+  {
+    "package": "speedglm",
+    "url": "https://github.com/cole-trapnell-lab/speedglm",
+    "via": ["SeuratWrappers", "monocle3"],
     "from": "SeuratWrappers"
   },
   {
