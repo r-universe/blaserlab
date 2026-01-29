@@ -11,18 +11,6 @@
 [submodule "BPCells"]
 	path = BPCells
 	url = https://github.com/bnprks/BPCells
-[submodule "Banksy"]
-	path = Banksy
-	url = https://github.com/prabhakarlab/Banksy
-	registered = false
-[submodule "CIPR"]
-	path = CIPR
-	url = https://github.com/atakanekiz/CIPR-Package
-	registered = false
-[submodule "CellChat"]
-	path = CellChat
-	url = https://github.com/sqjin/CellChat
-	registered = false
 [submodule "ChrAccR"]
 	path = ChrAccR
 	url = https://github.com/GreenleafLab/ChrAccR
@@ -41,10 +29,6 @@
 [submodule "GOsummaries"]
 	path = GOsummaries
 	url = https://github.com/raivokolde/GOsummaries
-[submodule "Nebulosa"]
-	path = Nebulosa
-	url = https://github.com/powellgenomicslab/Nebulosa
-	registered = false
 [submodule "RcisTarget"]
 	path = RcisTarget
 	url = https://github.com/aertslab/RcisTarget
@@ -63,10 +47,6 @@
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
-[submodule "SeuratDisk"]
-	path = SeuratDisk
-	url = https://github.com/mojaveazure/seurat-disk
-	registered = false
 [submodule "SeuratWrappers"]
 	path = SeuratWrappers
 	url = https://github.com/satijalab/seurat-wrappers
@@ -82,17 +62,9 @@
 [submodule "blaseRtools"]
 	path = blaseRtools
 	url = https://github.com/blaserlab/blaseRtools
-[submodule "chromVARmotifs"]
-	path = chromVARmotifs
-	url = https://github.com/GreenleafLab/chromVARmotifs
-	registered = false
 [submodule "cisTopic"]
 	path = cisTopic
 	url = https://github.com/aertslab/cisTopic
-[submodule "conos"]
-	path = conos
-	url = https://github.com/hms-dbmi/conos
-	registered = false
 [submodule "datascience.curriculum"]
 	path = datascience.curriculum
 	url = https://github.com/blaserlab/datascience.curriculum
@@ -108,10 +80,6 @@
 [submodule "ggseqlogo"]
 	path = ggseqlogo
 	url = https://github.com/omarwagih/ggseqlogo
-[submodule "harmony"]
-	path = harmony
-	url = https://github.com/immunogenomics/harmony
-	registered = false
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cran/ivprobit
@@ -142,17 +110,9 @@
 [submodule "penalized"]
 	path = penalized
 	url = https://github.com/cran/penalized
-[submodule "presto"]
-	path = presto
-	url = https://github.com/immunogenomics/presto
-	registered = false
 [submodule "rdoc"]
 	path = rdoc
 	url = https://github.com/mdequeljoe/rdoc
-[submodule "rliger"]
-	path = rliger
-	url = https://github.com/welch-lab/liger
-	registered = false
 [submodule "rsparse"]
 	path = rsparse
 	url = https://github.com/dselivanov/rsparse
@@ -162,18 +122,9 @@
 [submodule "sceasy"]
 	path = sceasy
 	url = https://github.com/cellgeni/sceasy
-[submodule "schex"]
-	path = schex
-	url = https://github.com/SaskiaFreytag/schex
-	branch = 031320d
-	registered = false
 [submodule "speedglm"]
 	path = speedglm
 	url = https://github.com/MarcoEnea/speedglm
 [submodule "tidyproteomics"]
 	path = tidyproteomics
 	url = https://github.com/jeffsocal/tidyproteomics
-[submodule "velocyto.R"]
-	path = velocyto.R
-	url = https://github.com/velocyto-team/velocyto.R
-	registered = false
