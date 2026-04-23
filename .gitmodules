@@ -11,6 +11,9 @@
 [submodule "BPCells"]
 	path = BPCells
 	url = https://github.com/bnprks/BPCells
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/jinworks/CellChat
 [submodule "ChrAccR"]
 	path = ChrAccR
 	url = https://github.com/GreenleafLab/ChrAccR
@@ -47,6 +50,9 @@
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
+[submodule "SeuratDisk"]
+	path = SeuratDisk
+	url = https://github.com/mojaveazure/seurat-disk
 [submodule "SeuratWrappers"]
 	path = SeuratWrappers
 	url = https://github.com/satijalab/seurat-wrappers
