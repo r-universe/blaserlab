@@ -103,7 +103,7 @@
 	url = https://github.com/ycroissant/mhurdle
 [submodule "monocle3"]
 	path = monocle3
-	url = https://github.com/cole-trapnell-lab/monocle3
+	url = https://github.com/cole-trapnell-lab/monocle3/tree/bge.grr_fix.20260420
 [submodule "muLogR"]
 	path = muLogR
 	url = https://github.com/demuellae/muLogR
