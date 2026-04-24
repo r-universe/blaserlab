@@ -86,6 +86,9 @@
 [submodule "ggseqlogo"]
 	path = ggseqlogo
 	url = https://github.com/omarwagih/ggseqlogo
+[submodule "grr"]
+	path = grr
+	url = https://github.com/cran/grr
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cran/ivprobit
@@ -103,7 +106,7 @@
 	url = https://github.com/ycroissant/mhurdle
 [submodule "monocle3"]
 	path = monocle3
-	url = https://github.com/cole-trapnell-lab/monocle3/tree/bge.grr_fix.20260420
+	url = https://github.com/cole-trapnell-lab/monocle3
 [submodule "muLogR"]
 	path = muLogR
 	url = https://github.com/demuellae/muLogR
